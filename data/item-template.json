@@ -1,0 +1,21 @@
+{
+  "id": "new-instrument",
+  "type": "app",
+  "title": "New Instrument",
+  "publicUrl": "https://username.github.io/new-instrument/",
+  "category": "time",
+  "status": "prototype",
+  "showInPortfolio": true,
+  "subtitle": {
+    "ja": "新しい器具",
+    "de": "Neues Instrument"
+  },
+  "description": {
+    "ja": "ここに日本語の説明文を入れます。",
+    "de": "Hier steht die deutsche Beschreibung."
+  },
+  "tags": ["Werkstatt", "Zeit"],
+  "technologies": ["HTML", "CSS", "JavaScript"],
+  "icon": "✧",
+  "screenshot": ""
+}

@@ -1,0 +1,28 @@
+<!doctype html>
+<html lang="ja">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>Apps / Instrumente - Mythos Interface</title>
+  <link rel="stylesheet" href="styles.css">
+  <script type="module" src="js/app.js"></script>
+</head>
+<body data-page="apps">
+  <header class="site-header"><div class="site-shell"><div class="masthead"><p class="site-title"><span class="site-mark">Instrumenta</span>Mythos Interface</p><div class="language-switcher" aria-label="Language"><button type="button" data-language="ja">日本語</button><button type="button" data-language="de">Deutsch</button></div></div><nav class="main-nav" aria-label="Main navigation"><a href="index.html" data-i18n="home">Home</a><a href="apps.html" aria-current="page" data-i18n="apps">Apps / Instrumente</a><a href="books.html" data-i18n="books">Books / Bücher</a><a href="about.html" data-i18n="about">About</a><a href="updates.html" data-i18n="updates">Updates</a></nav></div></header>
+  <main class="site-shell">
+    <section class="section">
+      <h1 class="page-title" data-i18n="apps">Apps / Instrumente</h1>
+      <p class="lead" data-i18n="publicOnly">公開ページには showInPortfolio が true で、draft ではない項目だけを表示します。</p>
+      <form class="filter-panel" data-filter-form>
+        <label><span data-i18n="search">検索</span><input name="query" type="search" autocomplete="off"></label>
+        <label><span data-i18n="category">カテゴリー</span><select name="category"></select></label>
+        <label><span data-i18n="type">種類</span><select name="type"></select></label>
+        <label><span data-i18n="status">状態</span><select name="status"></select></label>
+        <button class="button-link button-secondary" type="button" data-clear-filters data-i18n="clear">クリア</button>
+      </form>
+      <div class="catalog-grid" data-items-list></div>
+    </section>
+  </main>
+  <footer class="site-footer site-shell">Mythos Interface / Archivum</footer>
+</body>
+</html>

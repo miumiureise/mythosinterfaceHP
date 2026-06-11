@@ -1,0 +1,26 @@
+{
+  "version": 1,
+  "updates": [
+    {
+      "date": "2026-06-11",
+      "text": {
+        "ja": "Horologium Europaeumを追加",
+        "de": "Horologium Europaeum hinzugefügt"
+      }
+    },
+    {
+      "date": "2026-06-10",
+      "text": {
+        "ja": "六進環計算機を追加",
+        "de": "Sechser-Ringrechner hinzugefügt"
+      }
+    },
+    {
+      "date": "2026-06-09",
+      "text": {
+        "ja": "月齢羅盤を更新",
+        "de": "Mondscheibe aktualisiert"
+      }
+    }
+  ]
+}

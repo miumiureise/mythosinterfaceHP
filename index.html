@@ -1,0 +1,63 @@
+<!doctype html>
+<html lang="ja">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>Mythos Interface</title>
+  <link rel="stylesheet" href="styles.css">
+  <script type="module" src="js/app.js"></script>
+</head>
+<body data-page="home">
+  <header class="site-header">
+    <div class="site-shell">
+      <div class="masthead">
+        <p class="site-title"><span class="site-mark">Porta Werkstatt Archivum</span>Mythos Interface</p>
+        <div class="language-switcher" aria-label="Language">
+          <button type="button" data-language="ja">日本語</button>
+          <button type="button" data-language="de">Deutsch</button>
+        </div>
+      </div>
+      <nav class="main-nav" aria-label="Main navigation">
+        <a href="index.html" aria-current="page" data-i18n="home">Home</a>
+        <a href="apps.html" data-i18n="apps">Apps / Instrumente</a>
+        <a href="books.html" data-i18n="books">Books / Bücher</a>
+        <a href="about.html" data-i18n="about">About</a>
+        <a href="updates.html" data-i18n="updates">Updates</a>
+      </nav>
+    </div>
+  </header>
+  <main class="site-shell">
+    <section class="hero">
+      <div>
+        <h1 data-i18n="welcomeTitle">ようこそ Mythos Interface へ</h1>
+        <p data-i18n="welcomeBody">ようこそ、Mythos Interfaceへ。ここは、時間・暦・方位・数・天文・象徴を、日常で触れる小さな道具に変えるためのデジタル工房です。</p>
+        <p><strong data-i18n="siteDescription">日常に神話的なインターフェースをつくる小さなデジタル工房。</strong></p>
+        <p data-i18n="englishNote">A small digital workshop for time, symbols, numbers, and strange instruments.</p>
+      </div>
+      <aside class="notice-board">
+        <h2 data-i18n="workshopStatus">工房状態</h2>
+        <ul class="updates-list" data-updates-list></ul>
+      </aside>
+    </section>
+    <section class="section">
+      <h2 class="section-title" data-i18n="categoryEntrances">カテゴリ別入口</h2>
+      <div class="entrance-grid">
+        <a class="entrance" href="apps.html?category=time">Tempus / 時間</a>
+        <a class="entrance" href="apps.html?category=calendar">Calendarium / 暦</a>
+        <a class="entrance" href="apps.html?category=number">Numerus / 数</a>
+        <a class="entrance" href="apps.html?category=sky">Caelum / 天文</a>
+        <a class="entrance" href="books.html">Kindle / Notes</a>
+      </div>
+    </section>
+    <section class="section">
+      <h2 class="section-title" data-i18n="recent">最近追加したアプリ</h2>
+      <div class="catalog-grid" data-recent-items></div>
+    </section>
+    <section class="section">
+      <h2 class="section-title" data-i18n="recommended">おすすめの器具</h2>
+      <div class="catalog-grid" data-recommended-items></div>
+    </section>
+  </main>
+  <footer class="site-footer site-shell">Mythos Interface / Instrumenta, Tempus, Numerus, Caelum</footer>
+</body>
+</html>

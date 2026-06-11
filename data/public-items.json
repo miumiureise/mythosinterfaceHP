@@ -1,0 +1,173 @@
+{
+  "version": 1,
+  "items": [
+    {
+      "id": "moon-astrolabe",
+      "type": "app",
+      "title": "月齢羅盤",
+      "publicUrl": "https://miumiureise.github.io/mondalterluopan/",
+      "category": "sky",
+      "status": "published",
+      "showInPortfolio": true,
+      "subtitle": {
+        "ja": "月の満ち欠けを見る小さな羅盤",
+        "de": "Eine kleine Scheibe für die Mondphasen"
+      },
+      "description": {
+        "ja": "月齢、月相、旧暦気分を日常の目盛りとして眺めるための小さな天文器具。",
+        "de": "Ein kleines Himmelsinstrument, um Mondalter, Mondphase und alte Kalenderstimmung im Alltag zu betrachten."
+      },
+      "tags": ["月", "Himmel", "Kalender"],
+      "technologies": ["HTML", "CSS", "JavaScript"],
+      "icon": "☾",
+      "screenshot": ""
+    },
+    {
+      "id": "horologium-europaeum",
+      "type": "app",
+      "title": "Horologium Europaeum",
+      "publicUrl": "https://username.github.io/horologium-europaeum/",
+      "category": "time",
+      "status": "published",
+      "showInPortfolio": true,
+      "subtitle": {
+        "ja": "ヨーロッパ古式時刻盤",
+        "de": "Europäische historische Zeitscheibe"
+      },
+      "description": {
+        "ja": "教会時課、不定時法、ローマ式時刻を表示するヨーロッパ古式時刻盤。",
+        "de": "Eine historische Zeitscheibe mit kanonischen und temporalen Stunden."
+      },
+      "tags": ["Zeit", "Europa", "Horae"],
+      "technologies": ["HTML", "CSS", "JavaScript"],
+      "icon": "☉",
+      "screenshot": ""
+    },
+    {
+      "id": "astronomisches-kompendium",
+      "type": "app",
+      "title": "Astronomisches Kompendium",
+      "publicUrl": "https://username.github.io/astronomisches-kompendium/",
+      "category": "sky",
+      "status": "prototype",
+      "showInPortfolio": true,
+      "subtitle": {
+        "ja": "小さな天文便覧",
+        "de": "Kleines astronomisches Kompendium"
+      },
+      "description": {
+        "ja": "太陽、月、星座、季節の目安をひとつの工房机に並べるための天文目録。",
+        "de": "Ein Werkstattverzeichnis für Sonne, Mond, Sternbilder und jahreszeitliche Zeichen."
+      },
+      "tags": ["Himmel", "Sonne", "Sterne"],
+      "technologies": ["HTML", "CSS", "JavaScript"],
+      "icon": "✶",
+      "screenshot": ""
+    },
+    {
+      "id": "sekki-sundial",
+      "type": "app",
+      "title": "二十四節気・七十二候・十二時辰の日時計",
+      "publicUrl": "https://username.github.io/sekki-sundial/",
+      "category": "calendar",
+      "status": "prototype",
+      "showInPortfolio": true,
+      "subtitle": {
+        "ja": "暦と時辰の季節盤",
+        "de": "Jahreszeiten- und Stundenkreis"
+      },
+      "description": {
+        "ja": "二十四節気、七十二候、十二時辰を日々の時間感覚に重ねるための暦の器具。",
+        "de": "Ein Kalenderinstrument, das Sonnenjahreszeiten, Mikro-Saisons und alte Stunden zusammenbringt."
+      },
+      "tags": ["暦", "Kalender", "Zeit"],
+      "technologies": ["HTML", "CSS", "JavaScript"],
+      "icon": "𖣔",
+      "screenshot": ""
+    },
+    {
+      "id": "multiple-calendar",
+      "type": "app",
+      "title": "複数暦アプリ",
+      "publicUrl": "https://username.github.io/multiple-calendar/",
+      "category": "calendar",
+      "status": "maintenance",
+      "showInPortfolio": true,
+      "subtitle": {
+        "ja": "いくつもの暦を並べる机上暦",
+        "de": "Ein Tischkalender für mehrere Kalendersysteme"
+      },
+      "description": {
+        "ja": "グレゴリオ暦、旧暦、季節の区切りなどを横に並べて見るための暦ポータル。",
+        "de": "Ein Portal, um gregorianische Daten, alte Kalender und saisonale Markierungen nebeneinander zu betrachten."
+      },
+      "tags": ["Kalender", "Archivum", "Alltag"],
+      "technologies": ["HTML", "CSS", "JavaScript"],
+      "icon": "◇",
+      "screenshot": ""
+    },
+    {
+      "id": "senary-ring-calculator",
+      "type": "app",
+      "title": "六進環計算機",
+      "publicUrl": "https://username.github.io/senary-ring-calculator/",
+      "category": "number",
+      "status": "published",
+      "showInPortfolio": true,
+      "subtitle": {
+        "ja": "六進法を輪で考える計算器",
+        "de": "Ein Ringrechner für das Sechser-System"
+      },
+      "description": {
+        "ja": "六進法、循環、剰余、数の配置を輪の形で触るための小さな数の器具。",
+        "de": "Ein kleines Zahleninstrument für Basis sechs, Kreise, Reste und Anordnungen."
+      },
+      "tags": ["Zahl", "Numerus", "Rechnen"],
+      "technologies": ["HTML", "CSS", "JavaScript"],
+      "icon": "⚙",
+      "screenshot": ""
+    },
+    {
+      "id": "sectio-aurea",
+      "type": "app",
+      "title": "Sectio Aurea",
+      "publicUrl": "https://username.github.io/sectio-aurea/",
+      "category": "number",
+      "status": "prototype",
+      "showInPortfolio": true,
+      "subtitle": {
+        "ja": "黄金分割計算機",
+        "de": "Rechner des Goldenen Schnitts"
+      },
+      "description": {
+        "ja": "黄金比、黄金分割、黄金長方形、黄金螺旋、フィボナッチ数列を可視化する計算器。",
+        "de": "Ein Rechner zur Visualisierung des Goldenen Schnitts, goldener Rechtecke, Spiralen und der Fibonacci-Folge."
+      },
+      "tags": ["Zahl", "Form", "Goldener Schnitt"],
+      "technologies": ["HTML", "CSS", "JavaScript"],
+      "icon": "φ",
+      "screenshot": ""
+    },
+    {
+      "id": "kindle-webapp-note",
+      "type": "book",
+      "title": "プログラミング挫折者でもWebアプリを公開できた話",
+      "publicUrl": "",
+      "category": "book",
+      "status": "draft",
+      "showInPortfolio": false,
+      "subtitle": {
+        "ja": "CodexとGitHub Pagesの覚え書き",
+        "de": "Notizen zu Codex und GitHub Pages"
+      },
+      "description": {
+        "ja": "CodexとGitHub Pagesを使って、プログラミング挫折者が小さなWebアプリを公開するまでの記録。",
+        "de": "Notizen darüber, wie mit Codex und GitHub Pages kleine Web-Apps veröffentlicht wurden."
+      },
+      "tags": ["Kindle", "Codex", "GitHub Pages"],
+      "technologies": [],
+      "icon": "✦",
+      "screenshot": ""
+    }
+  ]
+}
