@@ -10,11 +10,11 @@
       "status": "published",
       "showInPortfolio": true,
       "subtitle": {
-        "ja": "月の満ち欠けを見る小さな羅盤",
+        "ja": "月の満ち欠けを見る羅盤",
         "de": "Eine kleine Scheibe für die Mondphasen"
       },
       "description": {
-        "ja": "月齢、月相、旧暦気分を日常の目盛りとして眺めるための小さな天文器具。",
+        "ja": "月齢、月相、旧暦気分を日常の目盛りとして眺めるための天文器具。",
         "de": "Ein kleines Himmelsinstrument, um Mondalter, Mondphase und alte Kalenderstimmung im Alltag zu betrachten."
       },
       "tags": ["月", "Himmel", "Kalender"],
@@ -52,7 +52,7 @@
       "status": "prototype",
       "showInPortfolio": true,
       "subtitle": {
-        "ja": "小さな天文便覧",
+        "ja": "天文コンペンディウム",
         "de": "Kleines astronomisches Kompendium"
       },
       "description": {
@@ -91,7 +91,7 @@
       "title": "複数暦アプリ",
       "publicUrl": "https://username.github.io/multiple-calendar/",
       "category": "calendar",
-      "status": "maintenance",
+      "status": "published",
       "showInPortfolio": true,
       "subtitle": {
         "ja": "いくつもの暦を並べる机上暦",
@@ -112,7 +112,7 @@
       "title": "六進環計算機",
       "publicUrl": "https://username.github.io/senary-ring-calculator/",
       "category": "number",
-      "status": "published",
+      "status": "maintenance",
       "showInPortfolio": true,
       "subtitle": {
         "ja": "六進法を輪で考える計算器",
