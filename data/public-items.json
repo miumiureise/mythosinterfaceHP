@@ -47,13 +47,13 @@
       "id": "astronomisches-kompendium",
       "type": "app",
       "title": "Astronomisches Kompendium",
-      "publicUrl": "https://username.github.io/astronomisches-kompendium/",
+      "publicUrl": "https://miumiureise.github.io/astronomical-compendium/",
       "category": "sky",
       "status": "prototype",
       "showInPortfolio": true,
       "subtitle": {
         "ja": "天文コンペンディウム",
-        "de": "Kleines astronomisches Kompendium"
+        "de": "Astronomisches Kompendium"
       },
       "description": {
         "ja": "太陽、月、星座、季節の目安をひとつの工房机に並べるための天文目録。",
