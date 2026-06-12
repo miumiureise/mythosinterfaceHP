@@ -68,7 +68,7 @@
       "id": "sekki-sundial",
       "type": "app",
       "title": "二十四節気・七十二候・十二時辰の日時計",
-      "publicUrl": "https://username.github.io/sekki-sundial/",
+      "publicUrl": "https://miumiureise.github.io/Sonnenuhr/",
       "category": "calendar",
       "status": "prototype",
       "showInPortfolio": true,
@@ -88,14 +88,14 @@
     {
       "id": "multiple-calendar",
       "type": "app",
-      "title": "複数暦アプリ",
-      "publicUrl": "https://username.github.io/multiple-calendar/",
+      "title": "暦環",
+      "publicUrl": "https://miumiureise.github.io/5kalender/",
       "category": "calendar",
       "status": "published",
       "showInPortfolio": true,
       "subtitle": {
-        "ja": "いくつもの暦を並べる机上暦",
-        "de": "Ein Tischkalender für mehrere Kalendersysteme"
+        "ja": "暦環",
+        "de": "kalenderringe"
       },
       "description": {
         "ja": "グレゴリオ暦、旧暦、季節の区切りなどを横に並べて見るための暦ポータル。",
@@ -131,9 +131,9 @@
       "id": "sectio-aurea",
       "type": "app",
       "title": "Sectio Aurea",
-      "publicUrl": "https://username.github.io/sectio-aurea/",
+      "publicUrl": "https://miumiureise.github.io/sectio-aurea/",
       "category": "number",
-      "status": "prototype",
+      "status": "published",
       "showInPortfolio": true,
       "subtitle": {
         "ja": "黄金分割計算機",
