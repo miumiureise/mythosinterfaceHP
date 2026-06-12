@@ -149,6 +149,27 @@
       "screenshot": ""
     },
     {
+      "id": "PROMPT ARCHIVE TERMINAL",
+      "type": "app",
+      "title": "PROMPT ARCHIVE TERMINAL",
+      "publicUrl": "https://miumiureise.github.io/prompt-bibliothek2.0/",
+      "category": "app",
+      "status": "published",
+      "showInPortfolio": true,
+      "subtitle": {
+        "ja": "プロンプト図書館",
+        "de": "Prompt Bibliothek"
+      },
+      "description": {
+        "ja": "プロンプト図書館",
+        "de": "Prompt Bibliothek."
+      },
+      "tags": ["Prompt", "App", "Terminal"],
+      "technologies": ["HTML", "CSS", "JavaScript"],
+      "icon": "☉",
+      "screenshot": ""
+    },
+    {
       "id": "kindle-webapp-note",
       "type": "book",
       "title": "プログラミング挫折者でもWebアプリを公開できた話",
