@@ -2,6 +2,12 @@
   "version": 1,
   "updates": [
     {
+      "date": "2026-06-14",
+      "text": {
+        "ja": "今日のサウナを追加",
+        "de": "Sauna von heute hinzugefügt"
+      }
+    {
       "date": "2026-06-11",
       "text": {
         "ja": "Horologium Europaeumを追加",
