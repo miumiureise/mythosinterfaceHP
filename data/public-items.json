@@ -22,6 +22,27 @@
       "icon": "☾",
       "screenshot": ""
     },
+     {
+      "id": "sauna-log",
+      "type": "app",
+      "title": "今日のサウナ",
+      "publicUrl": "https://miumiureise.github.io/sauna-log/",
+      "category": "sauna",
+      "status": "published",
+      "showInPortfolio": true,
+      "subtitle": {
+        "ja": "今日のサウナ",
+        "de": "sauna von heute"
+      },
+      "description": {
+        "ja": "今日のサウナでは、熱負荷の目安とサウナ後の体感を記録できます。数値は参考程度にして、無理せず休憩と水分補給を大切にしてください。",
+        "de": "Hier kannst du deine heutige Sauna festhalten: Wärme, Zeit, Körpergefühl, Stimmung und Nachklang. Die Werte sind nur Orientierung. Wichtig sind Wasser, Pausen und dein eigenes Körpergefühl."
+      },
+      "tags": ["sauna", "log", "sauna von heute"],
+      "technologies": ["HTML", "CSS", "JavaScript"],
+      "icon": "☾",
+      "screenshot": ""
+    },
     {
       "id": "horologium-europaeum",
       "type": "app",
